@@ -444,8 +444,7 @@ function displayRecords(){
 		      alert("Please provide correct number");
 		    	val=0;
           		return false;
-		      
-		      
+      
 		    }
 		    
 
@@ -458,9 +457,5 @@ function displayRecords(){
           		return false;
 		      
 		    }
-
-
- 				 });
-
-
-		</script>
+    });
+</script>
